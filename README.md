@@ -1,1 +1,1 @@
-# photo-gallery-css
+Hello, im just trying things on css!
